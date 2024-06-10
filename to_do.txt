@@ -1,0 +1,5 @@
+- Sync copied stuffs with clipboard
+- Config Harpoon
+- Config Python Debugger
+- Config Terminal Emulator
+- Install and config "which-key.nvim"
